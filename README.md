@@ -13,3 +13,7 @@
     + If you cloned this repo, choose **Load unpacked**
     + If you downloaded this repo as .zip file, choose **Pack extension**
 - Open m.facebook.com
+## Known issues
+- Viewport is not scaled in some cases.
+- The search bar is hidden behind the back navigation bar in search page.
+- Background image is not resized, so it is not recommended to use large image as background.
