@@ -1,7 +1,10 @@
 # scale-view v.0.1.0
 ## Introduction
-- Scale viewport on m.facebook.com and add some features.
-- Supports on: Chrominum-based browser (Google Chrome, Edge)
+- Scale viewport on m.facebook.com and add some features:
+    + Stick header bar to top of ther page
+    + Notify on tab title when new message arrives
+    + Add background image
+- Supports on: Google Chrome, Edge
 ## How to use
 - Copy this repo to your computer.
 - Open your browser. On the menu icon, click **Extensions** 
