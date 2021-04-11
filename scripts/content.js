@@ -120,7 +120,7 @@ function createBackgroundList(){
   
   form.style.position = "fixed";
   form.style.top = "0";
-  form.style.backgroundColor = "silver";
+  form.style.backgroundColor = "rgba(0,0,0,0.65)";
   form.style.opacity = "95%";
   form.style.borderRadius = "10px";
   form.style.padding = "10px";
