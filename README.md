@@ -1,7 +1,7 @@
 # scale-view v.0.1.0
 ## Introduction
 - Scale viewport on m.facebook.com and add some features:
-    + Stick header bar to top of ther page
+    + Stick header bar to top of the page
     + Notify on tab title when new message arrives
     + Add background image
 ![Screenshot 2021-04-12 015424](https://user-images.githubusercontent.com/50733059/114318007-156d7900-9b35-11eb-8ca9-fd4f3b7e1bb6.png)
