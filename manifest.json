@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+   
+    "name": "Scale view",
+    "version": "0.1.0",
+    "description": "Scale view port on m.facebook.com",
+    "browser_action":{
+      "default_popup": "popup.html"
+    },
+    "web_accessible_resources": [
+      "img/ami1.jpeg",
+      "img/ami2.jpg",
+      "img/ami3.jpg",
+      "img/minako1.jpg"
+    ],
+    "content_scripts": [{
+      "js": ["scripts/content.js"],
+      "matches": [
+        "https://m.facebook.com/*",
+        "https://mbasic.facebook.com/*"
+      ]
+    }]
+   
+  }
