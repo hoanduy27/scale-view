@@ -9,3 +9,4 @@
 - Add this extension to your browser
     + If you cloned this repo, choose **Load unpacked**
     + If you downloaded this repo as .zip file, choose **Pack extension**
+- Open m.facebook.com
