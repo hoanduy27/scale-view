@@ -6,5 +6,5 @@ Supports on: Chrominum-based browser (Google Chrome, Edge)
 - Open your browser. On the menu icon, click **Extensions** 
 - Enable Developer mode
 - Add this extension to your browser
-    + If you clone this repo, choose **Load unpacked**
-    + If you download this repo as .zip file, choose **Pack extension**
+    + If you cloned this repo, choose **Load unpacked**
+    + If you downloaded this repo as .zip file, choose **Pack extension**
