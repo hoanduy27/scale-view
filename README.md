@@ -8,7 +8,7 @@
 - Supports on: Google Chrome, Edge.
 ## How to use
 - Clone this repo to your computer.
-- If you downloaded this repo it as .zip file, unzip it.
+- If you downloaded this repo as .zip file, unzip it.
 - Open your browser. On the menu icon, click **Extensions**.
 - Enable Developer mode.
 - Choose **Load unpacked** to add this extension to your browser.
